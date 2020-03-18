@@ -1,0 +1,15 @@
+{
+  "consoles":[{
+    "id":1,
+    "name":"PS4",
+    "year":2013
+  },{
+    "id":2,
+    "name":"XBOX ONE",
+    "year":2013
+  },{
+    "id":3,
+    "name":"Nintendo Switch",
+    "year":2017
+  }]
+}
